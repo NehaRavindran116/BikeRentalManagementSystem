@@ -69,6 +69,7 @@ This project is a Bike Rental Management System implemented in C++. It provides 
 
 ## Contributions
 
-Contributions to this project are welcome! Feel free to fork the repository, make improvements, and create pull requests.Feel free to customize this description according to your project's specifics and your preferences.
+Contributions to this project are welcome! Since this is an example project, I'd invite you to clone and rename it to suit your needs.
+
 
 
